@@ -36,10 +36,7 @@ const request = require('request');
 
 const prefix = '1'
 
-client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
-	client.user.setGame(`1play | Florida Server`,'https://www.twitch.tv/v5bz');
-});
+client.on('ready', () => client.user.setActivity(`1play , 1help `, {type: "LISTENING"}))
 
 var servers = [];
 
