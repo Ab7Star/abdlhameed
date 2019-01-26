@@ -1,6 +1,6 @@
 token=توكن بوتك
-owner=ايدي حسابك
-prefix=البرفكس
+owner=424579459492872202
+prefix=S!
 game=#play
 stayinchannel=true
 songinstatus=false
