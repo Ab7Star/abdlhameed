@@ -1,0 +1,6 @@
+token=توكن بوتك
+owner=ايدي حسابك
+prefix=البرفكس
+game=#play
+stayinchannel=true
+songinstatus=false
