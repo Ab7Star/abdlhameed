@@ -38,7 +38,7 @@ const prefix = '1'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-	client.user.setGame(`1play | Florida Server`,'https://www.twitch.tv/v5bz');
+	client.user.setGame(`1play | Star Army Server`,'https://www.twitch.tv/v5bz');
 });
 
 var servers = [];
