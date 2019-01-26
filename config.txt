@@ -1,6 +1,6 @@
 token=NTM2NTQ1OTgxNjQ3NDIxNDYx.Dy5MXA.qrXVzlJ1oqyYer2BeCUHO5ueqVA
 owner=424579459492872202
 prefix=S!
-game=#play
+game=S!play |Star Army Server
 stayinchannel=true
 songinstatus=false
